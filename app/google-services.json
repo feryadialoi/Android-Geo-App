@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784465931911",
+    "firebase_url": "https://valid-hall-265405.firebaseio.com",
+    "project_id": "valid-hall-265405",
+    "storage_bucket": "valid-hall-265405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784465931911:android:3e66c060ab53b6c1f65222",
+        "android_client_info": {
+          "package_name": "com.feryadialoi.geoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784465931911-ksi1j8173kqkduj90677qrqbsu4l1fn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UKb3WVF_ud86TgsSazvc0GRfn-rSLHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784465931911-ksi1j8173kqkduj90677qrqbsu4l1fn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
